@@ -2,7 +2,7 @@
 
 An interactive third-party risk management (TPRM) simulator with an information-security focus. It walks through the supplier-risk lifecycle for a fictional UK cinema business, Northwind Cinemas Ltd, and is built to show risk judgement, not just risk detection: how vendor risk is scored, how systemic concentration risk is exposed, and how treatment decisions are reached.
 
-**Live demo:** https://YOUR-USERNAME.github.io/REPO-NAME/
+**Live demo:** https://preshwilliams.github.io/TPRM-Simulator/
 
 ## The 60-second sell
 
@@ -32,10 +32,6 @@ Indirect links are marked as indirect rather than forced.
 ## Synthetic data and scope
 
 All vendors, questionnaire answers, signals and scenarios are synthetic. No real organisation is ever probed or scanned, and the application makes no calls to fetch vendor data. This is a deliberate professionalism choice: a risk artefact should never probe a real third party without authorisation. The model is deterministic and illustrative: it demonstrates a defensible scoring structure rather than predicting real-world breach probability. Anything illustrative rather than rigorous is labelled as such in the Methodology tab.
-
-## Documentation
-
-The full scoring model, concentration logic, scenario design, framework mapping and limitations are documented in the methodology runbook: see `methodology.md` (also available as `methodology.html` and `methodology.pdf`).
 
 ## Built with
 
